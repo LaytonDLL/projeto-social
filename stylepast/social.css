@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+}
+
+a:hover {
+    background-color: rgb(227, 28, 1);
+}
+
+img {
+   width: 100vw;
+}
+
+a {
+    display: block;
+    background-color: rgb(118, 0, 0);
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bolder;
+}
